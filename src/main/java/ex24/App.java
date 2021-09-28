@@ -6,7 +6,7 @@
 package ex24;
 import java.util.Scanner;
 
-public class App
+class App
 {
     public static boolean isAnagram (String one, String two)
     {
